@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250"
+   height="250"
+   viewBox="0 0 66.145832 66.145833"
+   version="1.1"
+   id="svg23113"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="VLobbyLogo.svg"
+   inkscape:export-filename="VLobbyLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23115"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="1.8422839"
+     inkscape:cx="110.46072"
+     inkscape:cy="127.55906"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="0,66.145832"
+       orientation="0,250"
+       inkscape:locked="true"
+       id="guide4192" />
+    <sodipodi:guide
+       position="66.145832,66.145832"
+       orientation="250,0"
+       inkscape:locked="true"
+       id="guide4194" />
+    <sodipodi:guide
+       position="66.145832,0"
+       orientation="0,-250"
+       inkscape:locked="true"
+       id="guide4196" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-250,0"
+       inkscape:locked="true"
+       id="guide4198" />
+    <sodipodi:guide
+       position="33.031915,56.379875"
+       orientation="1,0"
+       id="guide5339"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="18.076358,33.039695"
+       orientation="0,-1"
+       id="guide5442"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs23110">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2917">
+      <stop
+         style="stop-color:#b58ecc;stop-opacity:1;"
+         offset="0"
+         id="stop2913" />
+      <stop
+         style="stop-color:#5de6de;stop-opacity:1;"
+         offset="1"
+         id="stop2915" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2917"
+       id="linearGradient13090"
+       x1="-0.026928158"
+       y1="33.053967"
+       x2="66.149513"
+       y2="33.053967"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient13090);fill-opacity:1;stroke:none;stroke-width:3.4231;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       id="rect23117"
+       width="66.176445"
+       height="66.197693"
+       x="-0.026928158"
+       y="-0.044880304" />
+    <path
+       class="b"
+       d="M 7.5023659,50.674934 56.119288,2.0580108 a 3.8018718,3.8018718 0 1 1 5.376658,5.3766585 L 32.446675,36.483941 a 3.8057396,3.8057396 0 0 0 5.379394,5.379394 L 57.024514,22.664888 a 3.8018718,3.8018718 0 1 1 5.376659,5.376658 L 33.313612,57.129107 A 3.8057396,3.8057396 0 0 0 38.693006,62.5085 L 98.878223,2.323287 77.264927,-1.010459 A 4.5869991,4.5869991 0 0 1 73.556509,-4.2758362 L 64.115906,-37.115573 a 4.5444552,4.5444552 0 0 1 -0.164091,-0.929838 L 5.8942928,20.012111 a 3.8018718,3.8018718 0 1 0 5.3766582,5.376659 l 14.6395,-14.639498 a 3.8057396,3.8057396 0 1 1 5.379394,5.379393 L 2.1229708,45.295539 a 3.8057396,3.8057396 0 1 0 5.3793951,5.379395 z"
+       id="path913"
+       fill="#00a1c2"
+       fill-opacity="1"
+       style="fill:#c9c5ff;fill-opacity:0.49063674;stroke-width:0.386762" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.8826px;font-family:KacstOffice;-inkscape-font-specification:'KacstOffice Bold';fill:#ffffff;fill-opacity:1;stroke-width:59.6863;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       x="15.502935"
+       y="46.668617"
+       id="text13146"><tspan
+         sodipodi:role="line"
+         id="tspan13144"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:59.6863"
+         x="15.502935"
+         y="46.668617">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3085px;font-family:KacstOffice;-inkscape-font-specification:'KacstOffice Bold';fill:#ffffff;fill-opacity:1;stroke-width:19.1728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       x="4.7046561"
+       y="60.560635"
+       id="text13202"><tspan
+         sodipodi:role="line"
+         id="tspan13200"
+         style="stroke-width:19.1728"
+         x="4.7046561"
+         y="60.560635">LOBBY</tspan></text>
+  </g>
+</svg>

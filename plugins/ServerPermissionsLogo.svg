@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250"
+   height="250"
+   viewBox="0 0 66.145832 66.145833"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="ServerPermissionsLogo.svg"
+   inkscape:export-filename="ServerPermissionsLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="87.327685"
+     inkscape:cy="147.07821"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <sodipodi:guide
+       position="0,66.145832"
+       orientation="0,250"
+       inkscape:locked="true"
+       id="guide182" />
+    <sodipodi:guide
+       position="66.145832,66.145832"
+       orientation="250,0"
+       inkscape:locked="true"
+       id="guide184" />
+    <sodipodi:guide
+       position="66.145832,0"
+       orientation="0,-250"
+       inkscape:locked="true"
+       id="guide186" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-250,0"
+       inkscape:locked="true"
+       id="guide188" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1849">
+      <stop
+         style="stop-color:#d0e3a4;stop-opacity:1;"
+         offset="0"
+         id="stop1845" />
+      <stop
+         style="stop-color:#8a696a;stop-opacity:1;"
+         offset="1"
+         id="stop1847" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1849"
+       id="radialGradient1851"
+       cx="25.526976"
+       cy="37.58585"
+       fx="25.526976"
+       fy="37.58585"
+       r="33.734375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59529253,-1.8046691,3.4669636,1.1436211,-108.37757,54.429081)" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#radialGradient1851);fill-opacity:1;stroke-width:3.517;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       id="rect292"
+       width="67.46875"
+       height="67.46875"
+       x="-0.53601897"
+       y="-0.5366708" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.5674px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:center;text-anchor:middle;fill:#1a1a1a;stroke-width:18.3522;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       x="33.537437"
+       y="35.63139"
+       id="text456"><tspan
+         sodipodi:role="line"
+         id="tspan454"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#1a1a1a;fill-opacity:1;stroke-width:18.3522"
+         x="33.537437"
+         y="35.63139">SERVER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.28093px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:10.2806;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       x="33.769478"
+       y="45.301952"
+       id="text562"><tspan
+         sodipodi:role="line"
+         id="tspan560"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';fill:#333333;stroke-width:10.2806"
+         x="33.769478"
+         y="45.301952">PERMISSIONS</tspan></text>
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:3.50306;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       id="rect2245"
+       width="60.137173"
+       height="1.4967093"
+       x="3.6600645"
+       y="36.333458" />
+  </g>
+</svg>

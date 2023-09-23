@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250"
+   height="250"
+   viewBox="0 0 66.145832 66.145833"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="VCustomBrandLogo.svg"
+   inkscape:export-filename="VCustomBrandLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="1.8422839"
+     inkscape:cx="68.93617"
+     inkscape:cy="130.27308"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,66.145832"
+       orientation="0,250"
+       id="guide132"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="66.145832,66.145832"
+       orientation="250,0"
+       id="guide134"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="66.145832,0"
+       orientation="0,-250"
+       id="guide136"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-250,0"
+       id="guide138"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1256">
+      <stop
+         style="stop-color:#5d9814;stop-opacity:1;"
+         offset="0"
+         id="stop1252" />
+      <stop
+         style="stop-color:#d9ff36;stop-opacity:1;"
+         offset="1"
+         id="stop1254" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1256"
+       id="linearGradient1258"
+       x1="-18.957447"
+       y1="4.0930843"
+       x2="86.88829"
+       y2="64.125"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient1258);fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect242"
+       width="72.382973"
+       height="73.675529"
+       x="-3.4468086"
+       y="-2.5851064"
+       rx="0.28849515"
+       ry="0.84647292" />
+    <path
+       class="b"
+       d="m -114.42202,5.4599163 51.588794,51.5887817 a 4.0342767,4.0342767 0 1 1 -5.705327,5.70533 l -30.82501,-30.825013 a 4.0383784,4.0383784 0 0 0 -5.708227,5.708246 l 20.37202,20.372019 a 4.0342743,4.0342743 0 1 1 -5.705328,5.705306 L -121.27073,32.848953 a 4.0383784,4.0383784 0 0 0 -5.70823,5.708227 l 63.864252,63.86425 3.537506,-22.934481 a 4.867395,4.867395 0 0 1 3.465004,-3.935121 l 34.847169,-10.017683 a 4.8222504,4.8222504 0 0 1 0.98668,-0.174134 L -81.88483,3.7535303 a 4.0342751,4.0342751 0 1 0 -5.705326,5.7053203 l 15.534385,15.5343944 a 4.0383784,4.0383784 0 1 1 -5.708225,5.708224 L -108.7138,-0.24832969 a 4.0383784,4.0383784 0 1 0 -5.70822,5.70824599 z"
+       id="path913"
+       fill="#00a1c2"
+       fill-opacity="1"
+       style="fill:#a0ca17;fill-opacity:0.198502;stroke-width:0.410403" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:85.116px;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';text-align:center;text-anchor:middle;fill:#000014;fill-opacity:0.411985;stroke-width:35.465;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="32.744652"
+       y="61.998501"
+       id="text906"><tspan
+         sodipodi:role="line"
+         id="tspan904"
+         style="fill:#000014;fill-opacity:0.411985;stroke-width:35.465"
+         x="32.744652"
+         y="61.998501">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.9059px;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';text-align:center;text-anchor:middle;fill:#00000b;fill-opacity:1;stroke-width:5.37747;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="32.727566"
+       y="30.118578"
+       id="text1168"><tspan
+         sodipodi:role="line"
+         id="tspan1166"
+         style="fill:#00000b;fill-opacity:1;stroke-width:5.37747"
+         x="32.727566"
+         y="30.118578">CUSTOM</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0.753363;stroke-width:7.13173;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1226"
+       width="62.443695"
+       height="15.510638"
+       x="1.6399457"
+       y="30.590425"
+       rx="0.26859894"
+       ry="0.78809541" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:15.1017px;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';text-align:center;text-anchor:middle;fill:#ee862e;fill-opacity:0.98654699;stroke-width:6.29225;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="32.870903"
+       y="43.094578"
+       id="text1172"><tspan
+         sodipodi:role="line"
+         id="tspan1170"
+         style="fill:#ee862e;fill-opacity:0.98654699;stroke-width:6.29225;stroke-dasharray:none"
+         x="32.870903"
+         y="43.094578">BRAND</tspan></text>
+  </g>
+</svg>

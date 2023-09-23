@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250"
+   height="250"
+   viewBox="0 0 66.145835 66.145835"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="KickRedirectLogo.svg"
+   inkscape:export-filename="KickRedirectLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:lockguides="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="76.367532"
+     inkscape:cy="122.32947"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,66.145835"
+       orientation="0,250"
+       inkscape:locked="true"
+       id="guide791" />
+    <sodipodi:guide
+       position="66.145835,66.145835"
+       orientation="250,0"
+       inkscape:locked="true"
+       id="guide793" />
+    <sodipodi:guide
+       position="66.145835,0"
+       orientation="0,-250"
+       inkscape:locked="true"
+       id="guide795" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-250,0"
+       inkscape:locked="true"
+       id="guide797" />
+    <sodipodi:guide
+       position="-32.834062,33.03114"
+       orientation="0,-1"
+       id="guide7193"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13599">
+      <stop
+         style="stop-color:#ff5555;stop-opacity:1;"
+         offset="0"
+         id="stop13595" />
+      <stop
+         style="stop-color:#fff494;stop-opacity:1;"
+         offset="1"
+         id="stop13597" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="3.6210001"
+       markerHeight="3.5004385"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+    <marker
+       markerWidth="1.05"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapRibbon1"
+       viewBox="0 0 1.05 1"
+       inkscape:stockid="pin"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path56643"
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 H 2 L 1,0 2,1 H 0 L -0.1,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)" />
+    </marker>
+    <rect
+       x="142.25"
+       y="125"
+       width="3.5"
+       height="28.5"
+       id="rect8238" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="56.585108 : 72.423983 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="122.73094 : 72.423983 : 1"
+       inkscape:persp3d-origin="89.658026 : 61.399677 : 1"
+       id="perspective455" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13599"
+       id="linearGradient13601"
+       x1="66.978188"
+       y1="64.877136"
+       x2="-21.971987"
+       y2="6.3183789"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient13601);stroke-width:0.25957;fill-opacity:1"
+       id="rect731"
+       width="66.146339"
+       height="66.145538"
+       x="0.00044365536"
+       y="-0.00070918014" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.9438px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI Bold';fill:#ffffff;fill-opacity:1;stroke-width:3.91198"
+       x="1.7094797"
+       y="52.815426"
+       id="text3298"
+       transform="scale(1.069999,0.93458032)"><tspan
+         sodipodi:role="line"
+         id="tspan3296"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';fill:#ffffff;stroke-width:3.91198"
+         x="1.7094797"
+         y="52.815426">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Microsoft Yi Baiti';-inkscape-font-specification:'Microsoft Yi Baiti Bold';fill:#280b0b;fill-opacity:1;stroke-width:0.264583"
+       x="42.399479"
+       y="25.069271"
+       id="text8234"><tspan
+         sodipodi:role="line"
+         id="tspan8232"
+         style="stroke-width:0.264583"
+         x="42.399479"
+         y="25.069271"> </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text8236"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft Yi Baiti';-inkscape-font-specification:'Microsoft Yi Baiti Bold';white-space:pre;shape-inside:url(#rect8238);display:inline;fill:#280b0b;fill-opacity:1"><tspan
+         x="142.25"
+         y="136.80244"
+         id="tspan20752"> </tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.3;stroke-dasharray:2.11667, 0, 2.11667;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-end:url(#RoundedArrow);paint-order:stroke fill markers"
+       d="m 37.469493,15.504285 c 2.814703,-1.435059 5.811756,-4.616834 8.750622,-5.5216769 1.910201,-0.5881292 8.915868,0.4539419 11.002289,2.2647079 1.88058,1.63212 2.728049,1.718752 2.957685,4.897987 0.206834,2.863557 -0.607735,5.945635 -0.631168,8.761319 -0.02525,3.034507 -1.216965,6.189575 -0.897045,8.418086 0.35495,2.472521 1.459399,6.604055 1.277412,8.276848 -0.337407,3.101382 3.361192,4.524363 0.09524,8.132354 -2.135123,2.358732 -4.343916,4.747248 -6.145383,4.52216 -1.871623,0.217264 -8.151895,-0.02161 -9.460411,-1.38018 -0.672406,-0.54626 -1.357346,-1.078198 -2.075085,-1.564022"
+       id="path13073"
+       sodipodi:nodetypes="cssssssssss" />
+  </g>
+</svg>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250"
+   height="250"
+   viewBox="0 0 66.145832 66.145833"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="LogFilterLogo.svg"
+   inkscape:export-filename="LogFilterLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="1.8422839"
+     inkscape:cx="61.336907"
+     inkscape:cy="129.18747"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,66.145832"
+       orientation="0,250"
+       inkscape:locked="true"
+       id="guide132" />
+    <sodipodi:guide
+       position="66.145832,66.145832"
+       orientation="250,0"
+       inkscape:locked="true"
+       id="guide134" />
+    <sodipodi:guide
+       position="66.145832,0"
+       orientation="0,-250"
+       inkscape:locked="true"
+       id="guide136" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-250,0"
+       inkscape:locked="true"
+       id="guide138" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3846">
+      <stop
+         style="stop-color:#80ff72;stop-opacity:1;"
+         offset="0"
+         id="stop3842" />
+      <stop
+         style="stop-color:#cfe8fa;stop-opacity:0.96022725;"
+         offset="1"
+         id="stop3844" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3846"
+       id="linearGradient3848"
+       x1="62.042553"
+       y1="57.015961"
+       x2="-7.4680824"
+       y2="7.7553205"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient3848);fill-opacity:1;stroke-width:3.517;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       id="rect346"
+       width="66.494682"
+       height="66.638298"
+       x="-0.14361702"
+       y="-0.14361702" />
+    <path
+       class="b"
+       d="M 58.769671,52.146343 10.152748,3.5294204 A 3.8018718,3.8018718 0 1 0 4.7760899,8.9060784 L 33.825361,37.95535 a 3.8057396,3.8057396 0 0 1 -5.379394,5.379394 L 9.2475219,24.136297 a 3.8018718,3.8018718 0 1 0 -5.376659,5.376658 L 32.958424,58.600516 A 3.8057396,3.8057396 0 0 1 27.57903,63.979909 L -32.606186,3.7946964 -10.992891,0.46095046 a 4.5869991,4.5869991 0 0 0 3.7084179,-3.26537706 l 9.440603,-32.8397374 a 4.5444552,4.5444552 0 0 0 0.164091,-0.929838 L 60.377744,21.48352 a 3.801872,3.801872 0 1 1 -5.376659,5.376659 l -14.6395,-14.639498 a 3.8057396,3.8057396 0 1 0 -5.379394,5.379393 l 29.166875,29.166874 a 3.8057396,3.8057396 0 1 1 -5.379395,5.379395 z"
+       id="path913"
+       fill="#00a1c2"
+       fill-opacity="1"
+       style="fill:#59ad17;fill-opacity:0.30000001;stroke-width:0.386762" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:27.9479px;font-family:'Miriam CLM';-inkscape-font-specification:'Miriam CLM Bold';text-align:center;text-anchor:middle;fill:#2f9242;fill-opacity:0.89999998;stroke-width:30.9583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       x="26.830698"
+       y="44.32972"
+       id="text1635"><tspan
+         sodipodi:role="line"
+         id="tspan1633"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Candara;-inkscape-font-specification:'Candara Bold';fill:#2f9242;fill-opacity:0.89999998;stroke-width:30.9583"
+         x="26.830698"
+         y="44.32972">LOG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.8932px;font-family:'Miriam CLM';-inkscape-font-specification:'Miriam CLM Bold';text-align:center;text-anchor:middle;fill:#306a18;fill-opacity:0.82397;stroke-width:18.713;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;paint-order:stroke fill markers"
+       x="32.154324"
+       y="58.590008"
+       id="text1639"><tspan
+         sodipodi:role="line"
+         id="tspan1637"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#306a18;fill-opacity:0.82397;stroke-width:18.713"
+         x="32.15432"
+         y="58.590008">FILTER</tspan></text>
+  </g>
+</svg>

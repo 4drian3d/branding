@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250"
+   height="250"
+   viewBox="0 0 66.145832 66.145833"
+   version="1.1"
+   id="svg20721"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="LanBroadcasterLogo.svg"
+   inkscape:export-filename="LanBroadcasterLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20723"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="58.953086"
+     inkscape:cx="236.6458"
+     inkscape:cy="246.53502"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,66.145832"
+       orientation="0,250"
+       inkscape:locked="true"
+       id="guide20754" />
+    <sodipodi:guide
+       position="66.145832,66.145832"
+       orientation="250,0"
+       inkscape:locked="true"
+       id="guide20756" />
+    <sodipodi:guide
+       position="66.145832,0"
+       orientation="0,-250"
+       inkscape:locked="true"
+       id="guide20758" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-250,0"
+       inkscape:locked="true"
+       id="guide20760" />
+  </sodipodi:namedview>
+  <defs
+     id="defs20718" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#470017;fill-opacity:1;stroke:none;stroke-width:2.11776;stroke-linecap:round;stroke-miterlimit:6.3;stroke-dasharray:2.11776, 0, 2.11776;paint-order:stroke fill markers"
+       id="rect20814"
+       width="66.162247"
+       height="66.176453"
+       x="-0.0055689942"
+       y="-0.010298595" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:57.6169px;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';fill:#9575cd;fill-opacity:1;stroke:none;stroke-width:38.4113;stroke-linecap:round;stroke-miterlimit:6.3;stroke-dasharray:38.4113, 0, 38.4113;paint-order:stroke fill markers"
+       x="7.8297677"
+       y="56.852272"
+       id="text21350"><tspan
+         sodipodi:role="line"
+         id="tspan21348"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Alef;-inkscape-font-specification:'Alef Bold';fill:#9575cd;fill-opacity:1;stroke-width:38.4113"
+         x="7.8297677"
+         y="56.852272">b</tspan></text>
+    <g
+       id="g23063"
+       transform="rotate(49.118037,7.4906153,132.80919)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.517;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m -73.4415,39.084246 c 0,0 10.136011,-16.312348 22.588396,-15.28514 12.452386,1.027206 21.796538,15.101472 21.796538,15.101472"
+         id="path23014"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.71312;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m -68.336426,41.746604 c 0,0 7.819235,-12.583854 17.425393,-11.791434 9.606159,0.792419 16.814529,11.649746 16.814529,11.649746"
+         id="path23014-9"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.07002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m -64.188853,44.29422 c 0,0 5.965813,-9.601058 13.294989,-8.996468 7.329177,0.604589 12.828921,8.888365 12.828921,8.888365"
+         id="path23014-9-2"
+         sodipodi:nodetypes="csc" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="MiniPlaceholdersExpansion.svg"
+   inkscape:export-filename="FloodgateExpansion.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.65134573"
+     inkscape:cx="69.087733"
+     inkscape:cy="250.25112"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient933"
+       id="radialGradient8679"
+       cx="49.314381"
+       cy="41.556316"
+       fx="49.314381"
+       fy="41.556316"
+       r="35.137184"
+       gradientTransform="matrix(0.73104121,3.1525758,-6.6249503,1.536239,255.72252,-114.42024)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient933">
+      <stop
+         style="stop-color:#4d8bff;stop-opacity:1;"
+         offset="0"
+         id="stop929" />
+      <stop
+         style="stop-color:#a4ff96;stop-opacity:1;"
+         offset="1"
+         id="stop931" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#radialGradient8679);fill-opacity:1;stroke-width:14.8671;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect242"
+       width="141.91193"
+       height="147.03653"
+       x="-4.3176584"
+       y="-3.4331584"
+       rx="0.55993038"
+       ry="1.6428902" />
+    <g
+       id="g7564-7"
+       transform="matrix(5.2105362,0,0,5.2105362,239.56489,-70.957062)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.2734px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';text-align:center;text-anchor:middle;fill:#ffff9e;fill-opacity:1;stroke-width:48.9118;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="-39.355923"
+         y="28.149658"
+         id="text6357-0-7"
+         transform="scale(0.93783196,1.0662891)"><tspan
+           sodipodi:role="line"
+           id="tspan6355-4-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Miriam CLM';-inkscape-font-specification:'Miriam CLM Bold';fill:#ffff9e;fill-opacity:1;stroke-width:48.9115"
+           x="-39.355923"
+           y="28.149658">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.2734px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';text-align:center;text-anchor:middle;fill:#ffff9e;fill-opacity:1;stroke-width:48.9118;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="44.672768"
+         y="31.633339"
+         id="text6357-8-1-7"
+         transform="scale(-0.93783196,1.0662891)"><tspan
+           sodipodi:role="line"
+           id="tspan6355-9-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Miriam CLM';-inkscape-font-specification:'Miriam CLM Bold';fill:#ffff9e;fill-opacity:1;stroke-width:48.9115"
+           x="44.672768"
+           y="31.633339">&gt;</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:14.42px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI Bold';text-align:center;text-anchor:middle;fill:#a4ff96;stroke-width:34.79;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="87.437874"
+       y="83.710724"
+       id="text690"><tspan
+         sodipodi:role="line"
+         id="tspan688"
+         style="stroke-width:34.79"
+         x="87.437874"
+         y="83.710724">FLOODGATE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:15.538px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI Bold';text-align:center;text-anchor:middle;fill:#a4ff96;stroke-width:37.487;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="85.193291"
+       y="95.914749"
+       id="text690-1"><tspan
+         sodipodi:role="line"
+         id="tspan688-8"
+         style="stroke-width:37.4869"
+         x="85.193291"
+         y="95.914749">EXPANSION</tspan></text>
+  </g>
+</svg>
